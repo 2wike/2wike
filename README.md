@@ -5,7 +5,7 @@ Currently studying **Computer Programming at Trakya University** and working on 
 
 ## 💻 What I Do
 
-- 🎮 Building a 2D isometric pixel-art horror game in Unity (C#)
+- 🎮 Building a 2D pixel-art horror game in Unity (C#)
 - 🌐 Developing full-stack web projects with HTML, CSS, JavaScript, PHP, and MySQL
 - 🧠 Learning software engineering practices, UI/UX, and open-source contribution
 
