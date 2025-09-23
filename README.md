@@ -24,7 +24,7 @@ Currently studying **Computer Programming at Trakya University** and working on 
 ## 🌍 Portfolio & Links
 
 - 🌐 [My Website](http://cheriaverse.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehmetcemturan/)
+- 💼 [LinkedIn](www.linkedin.com/in/cem-turan)
 - 📧 mehmetcem32@gmail.com
 
 ---
