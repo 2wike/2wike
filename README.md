@@ -1,32 +1,35 @@
-# 👋 Hi, I'm Mehmet Cem Turan
+💻 What I Do
 
-I'm a self-driven developer, craftsman, and problem-solver based in Istanbul, Turkey.  
-Currently studying **Computer Programming at Trakya University** and working on web development and game projects.
+🎮 Building a 2D pixel-art horror game in Unity (C#), including modular loot, inventory, and party management systems
 
-## 💻 What I Do
+🌐 Developing full-stack web projects with HTML, CSS, JavaScript, PHP, and MySQL
 
-- 🎮 Building a 2D pixel-art horror game in Unity (C#)
-- 🌐 Developing full-stack web projects with HTML, CSS, JavaScript, PHP, and MySQL
-- 🧠 Learning software engineering practices, UI/UX, and open-source contribution
+🧩 Designing interactive UI/UX, animations, and game mechanics
 
-## 🔧 Technical Skills
+🧠 Learning software engineering best practices, optimization, and open-source contribution
 
-- **Languages:** HTML, CSS, JavaScript, C#, PHP, SQL
-- **Tools:** Unity, Visual Studio, XAMPP, Git, Flarum, VS Code
-- **Other:** Game Design, Web Design, Database Setup, Server Hosting
+🎨 Creating digital art and game assets, using AI tools and pixel art techniques
 
-## 🛠 Past Work
+🔧 Technical Skills
 
-- 8 years of experience in carpentry and furniture building  
-- Worked as a barista and quickly promoted to shift supervisor  
-- Known as a "problem solver" — regardless of industry
+Languages: C#, HTML, CSS, JavaScript, PHP, SQL
 
-## 🌍 Portfolio & Links
+Game & Web Tools: Unity, Visual Studio, VS Code, XAMPP, Flarum, Webflow, GSAP, ScrollTrigger, Spline
 
-- 🌐 [My Website](http://cheriaverse.com)
-- 💼 [LinkedIn](www.linkedin.com/in/cem-turan)
-- 📧 mehmetcem32@gmail.com
+Other Skills: Game Design, Web Design, Asset Creation, Database Setup, Server Hosting, UI/UX Design, Animation
 
----
+🛠 Past Work & Experience
 
-🇺🇸 Actively seeking sponsorship to work in the United States.
+8 years of experience in carpentry and furniture building
+
+Worked as a barista and quickly promoted to shift supervisor
+
+Known as a "problem solver" — skilled at tackling challenges across industries
+
+🌍 Portfolio & Links
+
+🌐 cheriaverse.com
+
+💼 LinkedIn
+
+📧 mehmetcem32@gmail.com
