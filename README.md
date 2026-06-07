@@ -43,7 +43,7 @@
 
 ## 🌍 Portfolio & Links
 
-- 🌐 Personal Website: [cheriaverse.com](http://cheriaverse.com/)  
+- 🌐 Personal Website: [cheriaverse.com](https://cheria-gamma.vercel.app/)  
 - 🌐 Projects:  
   - [Kati Lojistik](https://www.katilojistik.com/)  
   - [Kartal Mobilya Company Site](https://2wike.github.io/kartal-mobilya-company-site/)  
